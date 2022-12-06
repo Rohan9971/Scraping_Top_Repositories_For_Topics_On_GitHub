@@ -45,29 +45,34 @@ In this Project We have scrape https://github.com/topics. For each topic, we hav
 
 GitHub topics page
 
-![App Screenshot](https://github.com/Rohan9971/Scraping_Top_Repositories_For_Topics_On_GitHub/blob/main/screenshots/githubtopics.png?raw=true)
-
+![githubtopics](https://user-images.githubusercontent.com/112953571/205959227-ce48c08f-dc35-4a42-aa0e-13cc64a3c02f.png)
 
 
 Title
 
-![App Screenshot](https://github.com/Rohan9971/Scraping_Top_Repositories_For_Topics_On_GitHub/blob/main/screenshots/topics.png?raw=true)
+![topics](https://user-images.githubusercontent.com/112953571/205959581-57f91056-d6b1-4030-ba6d-0c7d53243b51.png)
+
 
 Description
 
-![App Screenshot](https://github.com/Rohan9971/Scraping_Top_Repositories_For_Topics_On_GitHub/blob/main/screenshots/description.png?raw=true)
+![description](https://user-images.githubusercontent.com/112953571/205959389-2ab1c2a0-0cf4-44bc-b459-b75d9bb760ac.png)
+
 
 Stars
 
-![App Screenshot](https://github.com/Rohan9971/Scraping_Top_Repositories_For_Topics_On_GitHub/blob/main/screenshots/stars.png?raw=true)
+![stars](https://user-images.githubusercontent.com/112953571/205959750-65872b2e-d079-4331-9644-39bc92de58c7.png)
+
 
 Title, description and url
 
-![App Screenshot](https://github.com/Rohan9971/Scraping_Top_Repositories_For_Topics_On_GitHub/blob/main/screenshots/title%20desc%20url.png?raw=true)
+![title desc url](https://user-images.githubusercontent.com/112953571/205959822-eeb3ffa0-f073-4598-9798-f132b9ea8453.png)
+
 
 username, repo_name, stars and url
 
-![App Screenshot](https://github.com/Rohan9971/Scraping_Top_Repositories_For_Topics_On_GitHub/blob/main/screenshots/name%20repo%20star%20url.png?raw=true)
+
+![name repo star url](https://user-images.githubusercontent.com/112953571/205959923-b24ff5b9-d5ad-40ad-bca5-63f2b219785d.png)
+
 
 
 ##  Documentation
